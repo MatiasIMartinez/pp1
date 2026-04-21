@@ -1,0 +1,10 @@
+body{
+    margin: 20px;
+}
+a{
+    border-radius: 5px;
+    border-color: black;
+    padding: 5px;
+    color: white;
+
+}
