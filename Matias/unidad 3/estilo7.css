@@ -1,0 +1,14 @@
+ul{
+    float: left;
+      background: lightgray;
+ 
+ color: rgb(27, 9, 190);
+  border: 2px, solid;
+    margin: 10px;
+    width: 100%;
+    
+}
+li {
+  float: left;
+   margin: 10px;
+}

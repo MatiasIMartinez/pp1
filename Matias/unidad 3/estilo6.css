@@ -1,0 +1,12 @@
+div {
+    border: 2px, solid black;
+    margin: 10px;
+    width: 300px;
+   }
+   
+   .linea{
+    border: 2px, dotted black;
+    display: inline-block;
+    margin: 10px;
+    width: 300px;
+   }
